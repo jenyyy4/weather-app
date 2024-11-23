@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 🌤️ *Weather App*
 
 ## Overview
 This **Weather App** is a simple and intuitive application that provides real-time weather updates for any location worldwide. Users can view current weather conditions, temperature, pressure, humidity, and more. Built with a focus on usability and clean design, the app is perfect for anyone needing quick and accurate weather information.
@@ -12,7 +12,7 @@ This **Weather App** is a simple and intuitive application that provides real-ti
 
 ---
 
-## Tech Stack
+## *Tech Stack*
 - **Frontend**: HTML, CSS
 - **Backend**: JavaScript
 - **API**: OpenWeatherMap API
