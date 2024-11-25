@@ -27,11 +27,9 @@ This **Weather App** is a simple and intuitive application that provides real-ti
 ---
 
 ## Screenshots
-### Homepage:
+### Homepage: <img width="1439" alt="homepage" src="https://github.com/user-attachments/assets/3e79fcc6-f62a-4d03-87e3-2facbca18663">
 
-
-### Search Results:
-
+### Search Results: <img width="1440" alt="search results" src="https://github.com/user-attachments/assets/156e779c-4228-4b04-a300-fb3048ea63e7">
 
 ---
 
